@@ -1,0 +1,95 @@
+{
+    "totalLeads": 0,
+    "verifiedEmails": 0,
+    "verificationRate": 0,
+    "totalApiCalls": 0,
+    "remainingCalls": 2000,
+    "avgSearchTime": 1049,
+    "recentSearches": [
+        {
+            "id": 16,
+            "query": "gibson.com",
+            "searchType": "domain",
+            "status": "completed",
+            "filters": {
+                "jobTitle": "",
+                "location": "",
+                "companySize": "",
+                "industry": ""
+            },
+            "totalResults": 0,
+            "verifiedEmails": 0,
+            "apiCallsUsed": 0,
+            "searchTime": 1142,
+            "createdAt": "2025-06-30T09:42:38.105Z"
+        },
+        {
+            "id": 15,
+            "query": "gibson.com",
+            "searchType": "domain",
+            "status": "completed",
+            "filters": {
+                "jobTitle": "",
+                "location": "",
+                "companySize": "",
+                "industry": ""
+            },
+            "totalResults": 0,
+            "verifiedEmails": 0,
+            "apiCallsUsed": 0,
+            "searchTime": 830,
+            "createdAt": "2025-06-30T09:42:10.568Z"
+        },
+        {
+            "id": 14,
+            "query": "gibson.com",
+            "searchType": "domain",
+            "status": "completed",
+            "filters": {
+                "jobTitle": "",
+                "location": "",
+                "companySize": "",
+                "industry": ""
+            },
+            "totalResults": 0,
+            "verifiedEmails": 0,
+            "apiCallsUsed": 0,
+            "searchTime": 940,
+            "createdAt": "2025-06-30T09:42:09.257Z"
+        },
+        {
+            "id": 13,
+            "query": "gibson.com",
+            "searchType": "domain",
+            "status": "completed",
+            "filters": {
+                "jobTitle": "",
+                "location": "",
+                "companySize": "",
+                "industry": ""
+            },
+            "totalResults": 0,
+            "verifiedEmails": 0,
+            "apiCallsUsed": 0,
+            "searchTime": 958,
+            "createdAt": "2025-06-30T09:41:18.695Z"
+        },
+        {
+            "id": 12,
+            "query": "gibson.com",
+            "searchType": "domain",
+            "status": "completed",
+            "filters": {
+                "jobTitle": "",
+                "location": "",
+                "companySize": "",
+                "industry": ""
+            },
+            "totalResults": 0,
+            "verifiedEmails": 0,
+            "apiCallsUsed": 0,
+            "searchTime": 986,
+            "createdAt": "2025-06-30T09:40:39.333Z"
+        }
+    ]
+}
