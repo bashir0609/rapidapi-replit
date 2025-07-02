@@ -16,10 +16,8 @@
     "@neondatabase/serverless": "^0.10.4",
     "vite": "^5.4.19",
     "@vitejs/plugin-react": "^4.3.2",
-    // ... all your existing dependencies
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-    // ... rest of your dependencies
   },
   "devDependencies": {
     "@replit/vite-plugin-cartographer": "^0.2.7",
